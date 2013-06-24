@@ -1,5 +1,5 @@
 {
-    "name": "sylius/cart-bundle",
+    "name": "jordscream/cart-bundle",
     "type": "symfony-bundle",
     "description": "Cart feature for your next Symfony2 application.",
     "keywords": ["shop", "ecommerce", "cart", "carts", "sylius"],
@@ -21,7 +21,7 @@
         "php":                      ">=5.3.3",
 
         "symfony/framework-bundle": "~2.1",
-        "sylius/resource-bundle":   "0.1.*"
+        "jordscream/resource-bundle":   "0.3.*"
     },
     "require-dev": {
         "phpspec/phpspec2":         "dev-develop",
